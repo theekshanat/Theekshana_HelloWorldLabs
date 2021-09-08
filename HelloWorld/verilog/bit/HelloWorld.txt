@@ -1,0 +1,5 @@
+•	Step 4: Commit changes
+o	Now you can start editing the files in your branch
+o	Add a new file named “HelloWorld.txt”
+o	Write some text in the “HelloWorld.txt”
+o	Then click “Commit changes”
